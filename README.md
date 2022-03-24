@@ -25,7 +25,7 @@ To get the project .......
   
 ##### Cloning the repository:  
  ```bash 
- # 
+ # git clone https://github.com/754Bree/Django-ip-2.git
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
