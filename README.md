@@ -6,7 +6,7 @@
 This is a clone of  Instagram where people share their  images and videos for other users to view. 
 Users can sign up, login, view and post photos, search and follow other users.
 ##  Live Link  
- Click [View Site](***)  to visit the site
+ Click [View Site](https://instalogsss7.herokuapp.com/)  to visit the site
   
 
  
