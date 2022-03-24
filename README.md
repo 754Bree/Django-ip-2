@@ -78,7 +78,7 @@ Open the application on your browser `http://127.0.0.1:8000`.
 * There are no known bugs currently but pull requests are allowed incase you spot a bug  
   
 ## Contact Information   
-If you have any question or contributions, please email me at [**]  
+If you have any question or contributions, please email me at [brianaodhiambo754@gmail.com]  
   
 ## License 
 * MIT license
